@@ -1,0 +1,3 @@
+This is a simple univariate linear regression model where we have one input variable for the output. 
+In linear regression we have to implement the best line fit for the scatter plot which is done using the gradient descent algorithm.
+The gradient descent algorithm helps us in determining the parameters w and b whihc will fit the training data of our linear regression model 
